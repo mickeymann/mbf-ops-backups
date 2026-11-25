@@ -1,0 +1,650 @@
+{
+ "box_url": "https://claude.ai/artifact/LVRmUpo8yjEYJAF8y3s9PC",
+ "docs": {
+  "box": {
+   "sync": {
+    "at": "2026-11-25T15:57:00Z",
+    "doc": {
+     "datasets": {
+      "bs_cycle": {
+       "dst": "/_blob/d4593cff26c2fd65adced9a254629a6e",
+       "src": "9d92c39878c4d829125e126b2e97b141"
+      },
+      "daily": {
+       "dst": "/_blob/fc8d88d6e1e670cc3a353a325ef3018e",
+       "src": "4877acdcaa6dc9d29af43d46f75d6ade"
+      },
+      "doc_coverage": {
+       "dst": "/_blob/81467565091113db77dff4eb07be6d60",
+       "src": "aa3addc8a1be150b55e3177fb1933246"
+      },
+      "drill_deals": {
+       "dst": "/_blob/ffcbe0432070a4db2316ec6a48cc128a",
+       "src": "a9a0066ff826e5c425016c55004085a6"
+      },
+      "drill_parts": {
+       "dst": "/_blob/19341026e0e569ee007360a2e809b06f",
+       "src": "1beef99ddf0cecbcfecbf1535c98a19a"
+      },
+      "drill_parts_inv": {
+       "dst": "/_blob/dc155e6eae9a283545282ad2a43cbf0f",
+       "src": "26588a8651dda10ce23df8d705c3c0e2"
+      },
+      "drill_ros": {
+       "dst": "/_blob/8562bdb2363c8fb4385aea8418acdd7f",
+       "src": "74902198bb50432bf189293d7892d010"
+      },
+      "drill_tech": {
+       "dst": "/_blob/d277651f964177ed487eefa40566644a",
+       "src": "87875d3d88ca2a40fb1c569f44fed11b"
+      },
+      "exc_disc": {
+       "dst": "/_blob/c0bec7cc68cb98ea88345ae2765a6c8d",
+       "src": "3389a3f85aad5ea9b494f592d994fea7"
+      },
+      "exc_elr": {
+       "dst": "/_blob/136606cf93e63558c8b53c58ebdf8f40",
+       "src": "313dba8a0dafed0165c27dfecb329bc5"
+      },
+      "exc_flags": {
+       "dst": "/_blob/f6b899d79cbd552d4876b79341f024c1",
+       "src": "ceef51e626023a88412f7b00ad930735"
+      },
+      "exc_history": {
+       "dst": "/_blob/6072e2ed979b7ca0b2bfb6284d9d038d",
+       "src": "e38d28a51af325ee2f73935db927c137"
+      },
+      "exc_summary": {
+       "dst": "/_blob/db2b3a168047d2fadfdd3f22d66d4ff0",
+       "src": "6af967939b94544c9a4cc1ca2e78601e"
+      },
+      "feed_status": {
+       "dst": "/_blob/c87d3b98eb4e41d0d43370f5c87e5a7f",
+       "src": "fd8c1de84caa51bf6fd3a0911ab08fe7"
+      },
+      "fi_chargebacks": {
+       "dst": "/_blob/90ee27f77378cd3aa9dbd1c5e1d2e946",
+       "src": "c589d45c5d54c53b1e70f5479e19e376"
+      },
+      "fi_days": {
+       "dst": "/_blob/ef7930df4c8f77461c0277d3e144fa22",
+       "src": "6f90467a2638059783c3fa155eb9d75d"
+      },
+      "fi_mgr": {
+       "dst": "/_blob/770c6508a7ad70abe3a047585fd4eed4",
+       "src": "3ed747acca11c9714086d0f9091435b2"
+      },
+      "fi_pace": {
+       "dst": "/_blob/055b57f38b531cf2709d3e106da2550c",
+       "src": "8170a816b7fb30f97e4e54a90b366fee"
+      },
+      "fi_trend": {
+       "dst": "/_blob/bec0af7c912b48345b456965d53cc8b5",
+       "src": "0fe5a7f0a7156fd4302aeffba8ffddc2"
+      },
+      "forecast_drivers": {
+       "dst": "/_blob/36fa3ba845ef45d97b3dc719d3deb9da",
+       "src": "ccd42c1033ed17984ecbd19f67ed5c5e"
+      },
+      "gl_dept": {
+       "dst": "/_blob/0b36fa8b890b75a6bd5c579ec1bd74cd",
+       "src": "79435ecec2010f7cd69512287cf0494f"
+      },
+      "gl_expense": {
+       "dst": "/_blob/aaf62ab714138bfed36cebbe1e7a0f27",
+       "src": "b4e4e1d5eb9edc440e79a504a3706dba"
+      },
+      "gl_months": {
+       "dst": "/_blob/773999ce3d079fb9f93dd439ce972d94",
+       "src": "780d380fc78ac9082629cfb81ed1b8d1"
+      },
+      "goals": {
+       "dst": "/_blob/afae3538a69574702cbdc57c3be9311d",
+       "src": "4efbe17642bc1022c3e443d0d8ff60fa"
+      },
+      "mikes_read": {
+       "dst": "/_blob/08893a48d670a5e059e9e09d077e0c94",
+       "src": "bb63b6637e49f1fc7a24167533999253"
+      },
+      "ncm": {
+       "dst": "/_blob/f64eae637a14104d4b090071fdef103b",
+       "src": "4761d5d89f8006ec48810ec1013667ff"
+      },
+      "pace": {
+       "dst": "/_blob/8a6a259f9d9c2c365c50e9d6fbc7b0c0",
+       "src": "0a40c03f2cc2860d75aef4c5d939e3b5"
+      },
+      "parts_daily": {
+       "dst": "/_blob/5e7810ce362ce0c1f01fd4ebaa5d63c8",
+       "src": "7524277d80d19eb69c525df8e99b36fe"
+      },
+      "parts_days": {
+       "dst": "/_blob/a7565d2e6d2aaa041b5a032b6452b5ac",
+       "src": "0ec7f4b3d5c47ae8e79f97896900b116"
+      },
+      "parts_inventory": {
+       "dst": "/_blob/325dfda9a2c76b2df232e2a4f4e7ab53",
+       "src": "4fe1fb2547d511957ec81f21cc4c57c5"
+      },
+      "parts_pace": {
+       "dst": "/_blob/1899991d16c63f4a27accd267072f862",
+       "src": "3d82306d8ebcf9f633a24f978a91694e"
+      },
+      "parts_tires": {
+       "dst": "/_blob/607b7535d4eee78666ea0ba2aa8c8d08",
+       "src": "b6f118c098b273c855e4cdb31a3aacc7"
+      },
+      "parts_wty_markup": {
+       "dst": "/_blob/07506cececa0e6bf6dac96bff000a7a6",
+       "src": "a7ac55b0ae825f397d936ebadb8b5e06"
+      },
+      "pol_gl": {
+       "dst": "/_blob/c8f8fc5de68770fa4618860eeda06cd1",
+       "src": "dfb78337dedfc56f37e7d9d2897ab364"
+      },
+      "pol_lines": {
+       "dst": "/_blob/67d9ea4e91caa0fd07b7345fae6aaf3a",
+       "src": "b2f8b9a350a497ba82b8869a3712953e"
+      },
+      "pol_ros": {
+       "dst": "/_blob/f2379bb9563c669e4b94ffbcfbd0c2f7",
+       "src": "f55948b85790195d18b1607ee701d1d6"
+      },
+      "rc3": {
+       "dst": "/_blob/ffcaeaf42a9a027d6ac5139ce318c875",
+       "src": "e3b4b91c725ebc8e459f84db130e923c"
+      },
+      "sales_days": {
+       "dst": "/_blob/939a8a0e37ca8229f14851f47a5c8769",
+       "src": "1c8bde53190f49e41755b276d3f02ebd"
+      },
+      "service": {
+       "dst": "/_blob/c1d1ecaaa96969a02e4d3a8f7cecf9d2",
+       "src": "202f35cc8827ef557dbe97c801267ef3"
+      },
+      "svc_daily": {
+       "dst": "/_blob/15fae28d8086c3b3ba6079a3f8507e66",
+       "src": "37f9bd532f1944e38891cfa939b2d657"
+      },
+      "svc_days": {
+       "dst": "/_blob/7f51c8c5fcee18c9ce37f3970888fd83",
+       "src": "406d7cdc5126519ec05821bfc976f1a0"
+      },
+      "svc_pace": {
+       "dst": "/_blob/caf41a3c4075a15182a09b9849d4a1e8",
+       "src": "3ea54cb14662e3ed2e8d6a595f899fcd"
+      },
+      "tech_eff": {
+       "dst": "/_blob/e44cc07b3411e37536f556914a719a2e",
+       "src": "dadc15c95ea70723a082eb8611babeda"
+      },
+      "tech_groups": {
+       "dst": "/_blob/6fbd3071bdbab4ae7dd95860817e112c",
+       "src": "fd34bb0fe5fefb76679b4358f1cd9e32"
+      },
+      "unapplied": {
+       "dst": "/_blob/2691fc666d6351f939fb25a440ef2c27",
+       "src": "e9575c053d767e0174297438bd3f3c23"
+      },
+      "unapplied_ncm": {
+       "dst": "/_blob/36d9820178d8441b1f89e3ed378b0d4f",
+       "src": "c46e5f4d6e37de90b3a26d2d658f7ae1"
+      },
+      "used_aged": {
+       "dst": "/_blob/e08eda2da9444c398ac4a525e4cd8973",
+       "src": "7888a25f92f91ea401768370d78c2438"
+      },
+      "used_ladder": {
+       "dst": "/_blob/80433c786af0f4ee08a7c5d03f8a7cae",
+       "src": "f6a6396b40386b205b372bf8743ff457"
+      },
+      "wh_deals": {
+       "dst": "/_blob/e2ff31536cc7ea799eebc5828e3bd386",
+       "src": "d77091d5fbdda1d84a75db969edfead4"
+      },
+      "wh_owner": {
+       "dst": "/_blob/3580bad12ad3fec1308d278b73369a7f",
+       "src": "99a7dd21de369dc8aa7125c736861534"
+      },
+      "wh_pending": {
+       "dst": "/_blob/118b044219315e79a1cf6ec8e991e33f",
+       "src": "6ec3869a7c4c4d06afb3659f7ccb9cfa"
+      },
+      "wp_meta": {
+       "dst": "/_blob/3927bdb8f80cf4bffa3de47fda3c91fa",
+       "src": "0f0c51d62774cf028d9c68e2befd2ee2"
+      }
+     },
+     "files": {
+      "body_shop.js": 5,
+      "cb_bs.js": 1,
+      "drill.js": 23,
+      "exceptions.js": 4,
+      "export.js": 3,
+      "fab.js": 6,
+      "gl_dept.js": 2,
+      "gl_expense.js": 2,
+      "goals.js": 2,
+      "index.html": 237,
+      "layout.js": 3,
+      "refresh.js": 4,
+      "svc_tech.js": 5,
+      "used_wp.js": 8,
+      "views.css": 3,
+      "views.js": 10
+     }
+    },
+    "fcp": {
+     "datasets": {
+      "bbt": {
+       "dst": "/_blob/c0f4e41e00136bc2e23babaf7078e562",
+       "src": "bad12cab43ca3e1e7a9f9cedc81b10db"
+      },
+      "money": {
+       "dst": "/_blob/2cfae6b40538f8b872a7991ca89def3d",
+       "src": "fe04483efbc33cf45ca2c1e3519a59c2"
+      },
+      "people": {
+       "dst": "/_blob/5d0926af786a52eec31f82dfba97ee7c",
+       "src": "160332540c0be801a3ea786f94532d48"
+      },
+      "reports": {
+       "dst": "/_blob/cbba087445cf2f4c46c3836cc5ddb499",
+       "src": "eb957a8a973443fb2808b6e73e387127"
+      },
+      "st": {
+       "dst": "/_blob/6c43abfd026609a4b8d1a4b37aeb2923",
+       "src": "31e99333c04e5a4094170c0550c4b997"
+      },
+      "standards": {
+       "dst": "/_blob/f7fd58e9609fbcae1ed6bbb2102b95a0",
+       "src": "bf69ec4c7ff86a63c97f690a1cc34f75"
+      },
+      "vcp": {
+       "dst": "/_blob/726238d31eee9b1c866ff18c6d258a84",
+       "src": "e13c72dc2575d912582d38b6fa9020f2"
+      },
+      "vins": {
+       "dst": "/_blob/715f4322b0a56a32e6d5ef738ba0cb34",
+       "src": "5bb8033149d8892b938af90ce820c026"
+      }
+     },
+     "files": {
+      "index.html": 6
+     }
+    },
+    "hub": {
+     "datasets": {
+      "hub_actions": {
+       "dst": "/_blob/7dd34ee567ec99d426f46072c3322877",
+       "src": "1e787c03072b43b036de93072394dceb"
+      },
+      "hub_boards": {
+       "dst": "/_blob/fcd4ccfc388ad7394eceb07b9a9ea358",
+       "src": "9ca12597a1df9a8a9567fb80cbbd1342"
+      },
+      "hub_files": {
+       "dst": "/_blob/4ffa8961a18a25215f83e54507efae51",
+       "src": "383723fd46432d05d9998a7b1fff87ca"
+      },
+      "hub_sources": {
+       "dst": "/_blob/0f90059ade0eb4d8d4b1040e4f7de31f",
+       "src": "217e58e2a37916b43ed8764d1c4b1aa8"
+      },
+      "hub_summary": {
+       "dst": "/_blob/cedb777eac7cd5806dbc2418ea560a53",
+       "src": "47fd6df9026421c2980c31a1afde33c6"
+      },
+      "hub_tasks": {
+       "dst": "/_blob/861f4b8a4745d055e73b7f35a1832351",
+       "src": "c24ae321a5826898ff8b51071579762d"
+      }
+     },
+     "files": {
+      "index.html": 17
+     }
+    },
+    "mbep": {
+     "datasets": {
+      "elements": {
+       "dst": "/_blob/cea7997afbe2b5e75dad9a298a4a1f4e",
+       "src": "076062b38104f1f64220164b5d011300"
+      },
+      "mspu_customers": {
+       "dst": "/_blob/5c5555edeb1453724eef0bae9915c613",
+       "src": "363b3742c9384244953bdd953199dc73"
+      },
+      "mspu_mix": {
+       "dst": "/_blob/04f1c05bd1b02699f1d3a411eee43729",
+       "src": "3f10f0d7320e0c756b50534d0fc2ae62"
+      },
+      "mss_monthly": {
+       "dst": "/_blob/50e5fcb0b6e873faa239cc3455ca0ffc",
+       "src": "32a2c3ac5ec81c20fa85c7bdd516bcc7"
+      },
+      "qualifiers": {
+       "dst": "/_blob/a9bafda672fcaf059e46e104dcf14393",
+       "src": "2d3517cd55bffa8af05bc0e2d6daec51"
+      },
+      "retention": {
+       "dst": "/_blob/b93a3737fbaa3712f7800d9e86a143c4",
+       "src": "4f9159fe023c192f680ecb3ee18d7338"
+      },
+      "segments": {
+       "dst": "/_blob/52009deabfbb80a32ce724876f73481c",
+       "src": "d510d4349a93ff42b00b7cedde76f3ae"
+      },
+      "units": {
+       "box_id": "mbep_units",
+       "dst": "/_blob/49ebd58912619bb4893072455b639d37",
+       "src": "7c281d1239cbaa265d6e18711acaf430"
+      },
+      "video_daily": {
+       "dst": "/_blob/4955ac0f1f949ff65b43a025f1051570",
+       "src": "a8d96174e939e813a74f353c17dbd179"
+      },
+      "video_people": {
+       "dst": "/_blob/67054411649faa95a6877a8a124b3556",
+       "src": "99f99fe2f6653abcd590829cb5541cf5"
+      },
+      "weekly_lists": {
+       "dst": "/_blob/bf6fc4bcff31c2e09226b201c55aeb8a",
+       "src": "763a995145e58ce30e859b3552a67397"
+      },
+      "weekly_measures": {
+       "dst": "/_blob/60db6f16d1353887391fe8fb2d4de438",
+       "src": "dfb7baf65c1a1606dde3ef86d21a5e4d"
+      },
+      "weekly_series": {
+       "dst": "/_blob/32546c4b95a32a085b3224c46ae6d51d",
+       "src": "ae30d2b3d0493818bf4f1f7254322188"
+      }
+     },
+     "files": {
+      "index.html": 32
+     }
+    },
+    "mkt": {
+     "datasets": {
+      "ad_lines": {
+       "dst": "/_blob/96cbcfa42ad250e9f0938e2fd780ee9c",
+       "src": "3deb89baf62dd7af0e58058500296f66"
+      },
+      "aor_lorain": {
+       "dst": "/_blob/ebd9d724f618d59ac4c1807bd8863efd",
+       "src": "008614c944f2218a318828c1823defa1"
+      },
+      "aor_used": {
+       "dst": "/_blob/f21b65a093e40874361e3dd3824559a5",
+       "src": "dac3d45bef9b0dfd8a828aab29f9f807"
+      },
+      "basemap": {
+       "dst": "/_blob/35a202953e8e28571614e04a9a18b2b8",
+       "src": "d2582ff3947289f9a6ab481b2de17844"
+      },
+      "bench": {
+       "dst": "/_blob/b3c47483ed837833afd7b46d8e6a62a1",
+       "src": "9283c9814c03d54e19cd40c15b8f0f94"
+      },
+      "dc_mgmt": {
+       "dst": "/_blob/69ea23f3215fbd5d1b3a9c902a49b269",
+       "src": "a7c38baafd7e5335c8da04dbfab53549"
+      },
+      "dc_sources": {
+       "dst": "/_blob/854c10f0d475a954424f8e3f97f6283d",
+       "src": "e69a73796a6b8bfc2eed8b1a48d43f4c"
+      },
+      "ga_channels": {},
+      "gcada_share": {
+       "dst": "/_blob/b533412322b58e7120d3f66921844696",
+       "src": "b51f9c70ce30f921686781bea9c4ce49"
+      },
+      "gt_ford_channel": {},
+      "gt_ford_new": {},
+      "gt_ford_new_hourly": {},
+      "gt_ford_site": {},
+      "gt_ford_used": {},
+      "gt_ford_used_hourly": {},
+      "gt_mazda_new": {},
+      "gt_mazda_site": {},
+      "gt_mazda_used": {},
+      "gt_tc_site": {},
+      "mazda_meeting": {
+       "dst": "/_blob/440cab6a1aacc56a75bb21dc5cc6c4f1",
+       "src": "1f9316184f27539291d972a43bb5df8e"
+      },
+      "oem_share": {
+       "dst": "/_blob/bb0e874edeb5f6894bc89354b66b3925",
+       "src": "dad901bf0be30d863d6afcaea43118da"
+      },
+      "reclass": {
+       "dst": "/_blob/cae6a80553d4eee50858afc0bcc32bc5",
+       "src": "b3fcb401128d4b8bbc7640b20e7fe3fa"
+      },
+      "sold_geo": {
+       "dst": "/_blob/b5ebe071b7e3235a6915814cde281588",
+       "src": "52b9664b489c5f178806b4064a5cd6e8"
+      },
+      "specials": {
+       "dst": "/_blob/2cc6e8c07b5e18d980b4f3e875f1a536",
+       "src": "da341fa47aceebbbf5b4602ba13d765e"
+      },
+      "spend_month": {
+       "dst": "/_blob/1897114af3b5dcb95954c31239ffb832",
+       "src": "ad0ed5c659e7b1b0dc29d887664c83da"
+      },
+      "spend_vendor": {
+       "dst": "/_blob/5ab40548413e37d47d75b69bf18fdc5b",
+       "src": "f63c72d7bba51741c7aa19fa43a39b89"
+      },
+      "todo": {
+       "dst": "/_blob/0175541081495e95663892c4add0a528",
+       "src": "66b173966c28db23f65b780a16574973"
+      }
+     },
+     "files": {
+      "aor.js": 1,
+      "google.js": 6,
+      "hub.css": 3,
+      "hub.js": 5,
+      "index.html": 70,
+      "lorain.js": 1,
+      "oemshare.js": 4,
+      "share.js": 2,
+      "sort.js": 2
+     }
+    },
+    "newinv": {
+     "datasets": {
+      "age_gross": {
+       "dst": "/_blob/d1ecb4ee1ea34eea8c270916b30d44c5",
+       "src": "158634c43c2d3d3ab328d3972c5d70a1"
+      },
+      "aging": {
+       "dst": "/_blob/1c954096fdbc225b0438f5fa61f007a4",
+       "src": "3feb46dc74712e1310a49f863d7a0dbe"
+      },
+      "fast_turn": {
+       "dst": "/_blob/5632f353a1d60eec41fc7fb53cd20215",
+       "src": "7cd9a7bceda508ea59d24e0845d339f4"
+      },
+      "fctp": {
+       "dst": "/_blob/7977e837649753492d1cdd1e5feeadcc",
+       "src": "6ca2ec052ff0cb1999091c469a8516ba"
+      },
+      "fctp_meta": {
+       "dst": "/_blob/32611686c26f578823053f826ba06ec1",
+       "src": "c30a0ba924d93fb8b3fe497b2e3e5f4e"
+      },
+      "feeds": {
+       "dst": "/_blob/930d18f57bbcbd63649bc18716a153ac",
+       "src": "c4d1d9a722e00bb0a0100131951783d9"
+      },
+      "kpi": {
+       "dst": "/_blob/ff1a3d8394782899c4e6883e1af06a65",
+       "src": "c1efc705141495c7b1f530c0d95a5d86"
+      },
+      "line_gross": {
+       "dst": "/_blob/8d5a5848685bfdb751c20d59df31cc2c",
+       "src": "41196f357cbcde00f952f5413296e0d8"
+      },
+      "lines": {
+       "dst": "/_blob/0c1804a84c90dd0682f240806c6afe78",
+       "src": "f960f1b3b05d79aaa61207460d161b5d"
+      },
+      "market": {
+       "dst": "/_blob/c5861cc37a5d6a845c08b8c5d3df257b",
+       "src": "3ff081767c4fd3d7a8ba4da6e493cc3b"
+      },
+      "model_share": {
+       "dst": "/_blob/ac4e6998d797cb48b2e4efeea6df2f9a",
+       "src": "ee3e6ba6c49587806759d75fcb5b9fa8"
+      },
+      "order_cycle": {
+       "dst": "/_blob/adae2b996562ecf4cc6a50515f0c406a",
+       "src": "9d1652b6322db72c6239f64733dd5e16"
+      },
+      "order_gaps": {
+       "dst": "/_blob/6c08461416548c6be5fda7883f01ae18",
+       "src": "5ee26a737a6f0a45a66d9e4f090ce923"
+      },
+      "pricing_rules": {
+       "dst": "/_blob/22365400e21b0a00e00851d22f688840",
+       "src": "59486951baa30f0a6ce816a9c7e5d695"
+      },
+      "sales": {
+       "dst": "/_blob/ddf05b7e084513222afadedf97141829",
+       "src": "2887696046c54da23d56ddf20dd6df05"
+      },
+      "sd_builds": {
+       "dst": "/_blob/7898390346a1df6b0f78a787066aa823",
+       "src": "7d04cb42928637ebc93ec3c5570e4017"
+      },
+      "sd_history": {
+       "dst": "/_blob/5fb8dc6e6861eb8f842d607cb700e980",
+       "src": "4331d120fbfc8eab4b404ba21a580dc3"
+      },
+      "sd_kpi": {
+       "dst": "/_blob/3d2b2bc3174ee807b50a2c3f00441303",
+       "src": "2a8b040f20c20f76dd5443dee42bb8c1"
+      },
+      "sd_options": {
+       "dst": "/_blob/0120549321202a0603369128df79bce2",
+       "src": "d0084ff086f0d576bf41fecfb93cbb29"
+      },
+      "sd_orders": {
+       "dst": "/_blob/58f3c43318daeaec4446ef4b261750bb",
+       "src": "a2f29001cde35a002a57e6b6367e6176"
+      },
+      "sd_units": {
+       "dst": "/_blob/ef74cf7ceeb5160069ffaf46f3c6460b",
+       "src": "b44a084a434c5572fa4a354b6f8d8017"
+      },
+      "tc_kpi": {
+       "dst": "/_blob/ba548efd34a26bbbd313789e5b4c8969",
+       "src": "0313a90eac065f867acd6bbc573fa2fa"
+      },
+      "tc_units": {
+       "dst": "/_blob/47c3ab1c889a250d4b510d095567b660",
+       "src": "cd8167d9709f6bd53ff298da2ca893d9"
+      },
+      "units": {
+       "dst": "/_blob/34286ed133f16488a83dc22bf24d18a2",
+       "src": "1b0aabc3914f6f3295c11ee9a1da347d"
+      }
+     },
+     "files": {
+      "index.html": 8
+     }
+    },
+    "page": "box_build.py v2, all data boards, Nov 25 2026",
+    "people": {
+     "datasets": {
+      "candidates": {
+       "dst": "/_blob/f781df8af3d2be056e016feaa4d16796",
+       "src": "6cb9a960aa551c9d40341f24bdf9635f"
+      },
+      "jobs": {
+       "dst": "/_blob/e2614a36ae6f28b7445391added0a043",
+       "src": "98ec6c6a731cb75c98270591217df5dd"
+      },
+      "productivity": {},
+      "roster": {},
+      "schedule": {},
+      "staffing": {},
+      "timeoff": {}
+     },
+     "files": {
+      "index.html": 4
+     }
+    },
+    "sp": {
+     "datasets": {
+      "appraisals": {
+       "dst": "/_blob/755bfd0d4eaab1b42fbc323fb4763b25",
+       "src": "1bea8caaf4e9cac828d5d35a715c7715"
+      },
+      "deals": {
+       "dst": "/_blob/b4ee2b0a21ece4e015024e3b11ed84ef",
+       "src": "5b10532d268d79e9394ee76380ab9ac3"
+      },
+      "leads": {
+       "dst": "/_blob/e1bb8848c2ee2ab982a7e628e68e3e70",
+       "src": "d371a2eb461dc169f31a28f84ea7f3d6"
+      }
+     },
+     "files": {
+      "index.html": 16
+     }
+    },
+    "svc": {
+     "datasets": {
+      "svc_advisors": {
+       "dst": "/_blob/dc67ccf339405d21570be396f87c76ad",
+       "src": "df61f4cc6104f951146463f03cf80018"
+      },
+      "svc_callbacks": {
+       "dst": "/_blob/bc5eb4663f6cc2da4075f24584c02d4e",
+       "src": "4316a74e73396b958246684669f4013c"
+      },
+      "svc_contest": {
+       "dst": "/_blob/0421d1d5976ef10f440ec52a4b81c777",
+       "src": "19dca82971bd5f4b0f719e7ab6ab921f"
+      },
+      "svc_leaderboard": {
+       "dst": "/_blob/12419ddaf37c4e501c603164d20dd717",
+       "src": "b3002c1c073476cfc508b7e5379e3821"
+      },
+      "svc_run": {
+       "dst": "/_blob/176dcc5faa4cef81f665a35af846f409",
+       "src": "87eead7267dee8b0caf796cbe81f78ec"
+      },
+      "svc_store_pace": {
+       "dst": "/_blob/72e54271617b26731b60b74b8fdbc8bb",
+       "src": "d253e46fbf954537c7b45132c3d86662"
+      }
+     },
+     "files": {
+      "index.html": 36
+     }
+    }
+   }
+  },
+  "goal_config": {
+   "settings": {
+    "at": "2026-11-22T02:46:36.494Z",
+    "by": "u_KSwRl5GwXbhR5Gajr1YKGQ",
+    "depts": {},
+    "store": {
+     "basis": "forecast",
+     "pct": 7
+    }
+   }
+  }
+ },
+ "exportedAt": "2026-11-25T18:08:20+00:00",
+ "manifest": {
+  "box": 1,
+  "goal_config": 1
+ }
+}
